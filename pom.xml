@@ -32,7 +32,7 @@
 	<parent>
 		<groupId>org.jenkins-ci.plugins</groupId>
 		<artifactId>plugin</artifactId>
-		<version>4.31</version> <!-- TODO newer versions require an upgrade of the test harness -->
+		<version>4.66</version> <!-- TODO newer versions require an upgrade of the test harness -->
 		<relativePath />
 	</parent>
 
